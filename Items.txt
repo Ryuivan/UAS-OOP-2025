@@ -1,0 +1,80 @@
+Type        : Ticket
+ID          : 1
+Name        : PANTEK A
+Price       : Rp. 3232.00
+Stock       : 45
+Category    : Music
+Valid Until : 2025-12-31
+
+Type        : Ticket
+ID          : 2
+Name        : Theater B
+Price       : Rp. 100.00
+Stock       : 30
+Category    : Drama
+Valid Until : 2025-11-15
+
+Type        : Ticket
+ID          : 3
+Name        : Festival C
+Price       : Rp. 200.00
+Stock       : 20
+Category    : Festival
+Valid Until : 2025-10-10
+
+Type        : Merchandise
+ID          : 4
+Name        : Band T-Shirt
+Price       : Rp. 25.00
+Stock       : 100
+Category    : Fashion
+Type Detail : Baju
+
+Type        : Merchandise
+ID          : 5
+Name        : Movie Poster
+Price       : Rp. 10.00
+Stock       : 200
+Category    : Poster
+Type Detail : Poster
+
+Type        : Merchandise
+ID          : 6
+Name        : Keychain
+Price       : Rp. 5.00
+Stock       : 150
+Category    : Accessories
+Type Detail : Gantungan Kunci
+
+Type        : Recording
+ID:         : 7
+Name        : Live Concert 2024
+Price       : Rp. 50.00
+Stock       : 40
+Category    : Live
+Duration    : 120 minutes
+
+Type        : Recording
+ID:         : 8
+Name        : Standup Special
+Price       : Rp. 40.00
+Stock       : 25
+Category    : Comedy
+Duration    : 90 minutes
+
+Type        : Recording
+ID:         : 9
+Name        : Drama Series Ep.1
+Price       : Rp. 20.00
+Stock       : 60
+Category    : Drama
+Duration    : 45 minutes
+
+Type        : Recording
+ID:         : 10
+Name        : Podcast Session
+Price       : Rp. 15.00
+Stock       : 70
+Category    : Podcast
+Duration    : 60 minutes
+

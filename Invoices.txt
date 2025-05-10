@@ -1,0 +1,6 @@
+Item Name: PANTEK A
+Quantity: 3
+Total Amount: 9696.00
+Purchased Date: 2025-05-10
+
+
